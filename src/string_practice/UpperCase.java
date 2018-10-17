@@ -5,9 +5,11 @@ public class UpperCase {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String a = "sbscsd";
+    /*  String a = "sbscsd";
 		System.out.println(a.toUpperCase());
-		//System.out.println(a.replace("s", "A"));
+		System.out.println(a.replace("s", "A"));     */
+		
+		String a = "sbscsd";
 		String change = a.replace("s", "A");
 		System.out.println(change);
 		String name = a.replaceAll("sbscsd", "MaMuM");

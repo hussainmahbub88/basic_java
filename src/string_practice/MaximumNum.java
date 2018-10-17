@@ -40,7 +40,7 @@ public class MaximumNum {
 		
 		
 		
-//		Scanner keyboard = new Scanner(System.in);
+//		  Scanner keyboard = new Scanner(System.in);
 //        System.out.println("Please input 2 integers: ");
 //        int a = keyboard.nextInt();
 //        int b = keyboard.nextInt();
