@@ -3,7 +3,6 @@ package array;
 public class FindMinAndMaxNum {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		int a[] = new int[] { 23, 34, 13, 64, 72, 90, 10, 15, 9, 27 };
 

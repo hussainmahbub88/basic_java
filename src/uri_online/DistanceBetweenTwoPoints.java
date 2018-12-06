@@ -20,8 +20,6 @@ public class DistanceBetweenTwoPoints {
 		
 		double distance = Math.sqrt(a) ;
 		System.out.printf("%.4f",distance);
-		
-		
 
 	}
 

@@ -10,7 +10,6 @@ public class Consumption {
 
 		int X = sc.nextInt();
 		float Y = sc.nextFloat();
-		
 		float result = X/Y;
 		System.out.printf("%.3f km/l\n", result);
 		
